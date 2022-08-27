@@ -1,1 +1,6 @@
 https://learngitbranching.js.org/?locale=zh_CN
+
+
+git branch -f main C1 
+git reset HEAD^
+git revert HEAD
